@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "ivan",
+    "password": "root",
+    "database": "db_rest_todo",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": 0
+  }
+}
